@@ -1,12 +1,5 @@
-print("I CHANGED IT OOGAA BOOGA")
+from calc import funky
 
-#line
-#line
-#line
-#line
-#line
-#line
-#line
-#line#lin
-
-print("hi")
+if __name__ == "__main__":
+    print("Test")
+    funky()
